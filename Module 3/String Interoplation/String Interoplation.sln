@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Interoplation", "String Interoplation\String Interoplation.csproj", "{B3526E64-62B5-4769-AD2B-CC68F61A3B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3526E64-62B5-4769-AD2B-CC68F61A3B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3526E64-62B5-4769-AD2B-CC68F61A3B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3526E64-62B5-4769-AD2B-CC68F61A3B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3526E64-62B5-4769-AD2B-CC68F61A3B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BADF26C3-B108-4C43-A35B-B8B3801B7B27}
+	EndGlobalSection
+EndGlobal
